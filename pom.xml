@@ -3,4 +3,7 @@
   <groupId>com.devops</groupId>
   <artifactId>devops-cicd</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  <finalName>devops-build</finalName>
+  </build>
 </project>
